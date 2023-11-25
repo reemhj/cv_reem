@@ -1,0 +1,108 @@
+/*
+.name{
+    text-align: center;
+
+    
+}
+
+.pic{
+    margin-top: 100px;
+}
+
+.abs{
+    margin-top: 200px;
+    margin-left: 200px;
+    text-align: center;
+}
+
+.edu{
+    margin-left: 200px;
+    text-align: center;
+}
+
+.ski{
+    margin-left: 200px;
+    text-align: center;
+}
+
+.car{
+    margin-top: 200px; 
+}
+
+ul{
+    padding-left:200px ;
+}
+
+*/
+
+
+   
+    
+
+.container{
+        display: flex;
+        margin-top:100px;
+        margin-left: 200px;
+        text-align: center;
+        
+   
+}
+
+.left{
+    width: 50%;
+    
+}
+
+.right{
+    width: 50%;
+    
+}
+
+.car {
+    margin-top: 250px; 
+    /*text-align: left;*/
+}
+
+.abs {
+    margin-top: 175px;
+   /* margin-left: 200px;
+    text-align: center;*/
+}
+
+
+/*
+.name {
+    text-align: center;
+}
+
+.pic {
+    margin-top: 100px;
+}
+
+.abs {
+    margin-top: 200px;
+    margin-left: 200px;
+    text-align: center;
+}
+
+.edu {
+    margin-left: 200px;
+    text-align: center;
+}
+
+.ski {
+    margin-left: 200px;
+    text-align: center;
+}
+
+.car {
+    margin-top: 500px; 
+    text-align: left;
+}
+
+ul {
+    padding-left: 500px; 
+}
+
+
+*/

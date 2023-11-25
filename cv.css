@@ -1,0 +1,169 @@
+
+ 
+ 
+    
+
+.container{
+        display: flex;
+        margin-top:100px;
+        margin-left: 200px;
+        margin-right: 200px;
+        text-align: center;
+       background-color: white;
+}
+
+.left{
+    width: 50%;
+    
+    
+    
+}
+
+.right{
+    width: 50%;
+    padding-left: 80px;
+    
+}
+
+.car {
+    margin-top: 250px; 
+    margin-left: 20px;
+    
+    
+}
+
+.abs {
+    margin-top: 110px;
+   /* margin-left: 200px;*/
+    
+   
+}
+
+.pic{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.name{
+    margin-top: 150px;
+    margin-right: 200px;
+
+    }
+
+    div.con>h1{
+        background-color: rgb(221, 216, 216);
+        width: 400px;
+        border-radius: 50px;
+        margin-left: 20px;
+        font-family: 'Garamond', Serif;
+    }
+
+    
+    div.per>h1{
+        background-color: rgb(221, 216, 216);
+        width: 400px;
+        border-radius: 50px;
+        margin-left: 20px;
+        font-family: 'Garamond', Serif;
+    }
+
+    
+    div.lan>h1{
+        background-color: rgb(221, 216, 216);
+        width: 400px;
+        border-radius: 50px;
+        margin-left: 20px;
+        font-family: 'Garamond', Serif;
+    }
+
+    
+    div.car>h1{
+        background-color: rgb(221, 216, 216);
+        width: 400px;
+         border-radius: 50px;
+         font-family: 'Garamond', Serif;
+    }
+
+    div.abs>h1{
+        background-color: rgb(221, 216, 216);
+        width: 400px;
+         border-radius: 50px;
+         font-family: 'Garamond', Serif;
+    }
+
+    div.edu>h1{
+        background-color: rgb(221, 216, 216);
+        width: 400px;
+         border-radius: 50px;
+         font-family: 'Garamond', Serif;
+    }
+    div.ski>h1{
+        background-color: rgb(221, 216, 216);
+        width: 400px;
+         border-radius: 50px;
+         font-family: 'Garamond', Serif;
+         
+    }
+    div.exp>h1{
+        background-color: rgb(221, 216, 216);
+        width: 400px;
+         border-radius: 50px;
+         font-family: 'Garamond', Serif;
+         
+    }
+
+
+
+
+ul.phone{
+    list-style-type: none;
+}
+ul.phone li{
+    padding-left: 20px;
+    background-image: url("phone.jpg");
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    
+
+}
+ul.location{
+    list-style-type: none;
+    
+}
+ul.location li{
+    padding-left: 20px;
+    background-image: url("location.jpg");
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+
+}
+
+
+ul.mail{
+    list-style-type: none;
+    
+}
+ul.mail li{
+    padding-left: 20px;
+    background-image: url("mail.jpg");
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+
+}
+div.abs>ul{
+    text-align: justify;
+}
+
+div.ski>ul{
+    text-align: justify;
+}
+
+div.car>pre{
+    text-align: justify;
+}
+
+div.exp>pre{
+    text-align: justify;
+}
+   
+
